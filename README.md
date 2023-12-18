@@ -4,6 +4,7 @@
 
  Please note that this is a project for C++ developers who learnt and used C++ previously 
  and want to pick up C++ quickly after a break. 
+ It does not cover all the points for C++ learners. 
  If you are new to C++, it is a better choice to go through the C++ lessons or tutorials 
  before you read this project.
 
@@ -287,7 +288,7 @@
 
   #### Task(s)
 
-  * Explore the newest features introduced in the latest C++ standard (C++20 at the time of my last update).
+  * Explore the newest features introduced in the latest C++20 standard.
 
   ### Task 15: Projects
 
