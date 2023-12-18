@@ -1,6 +1,6 @@
 # C++复习任务
 
-[English](https://github.com/arcadian-st/cpp-review-tasks/blob/main/README.md)|简体中文
+*[English](https://github.com/arcadian-st/cpp-review-tasks/blob/main/README.md)* | *简体中文*
 
 20个用于复习C++基本概念的编程练习任务。
 
