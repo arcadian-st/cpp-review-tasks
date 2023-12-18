@@ -1,5 +1,7 @@
 # C++ Review Tasks
 
+English|[简体中文](https://github.com/arcadian-st/cpp-review-tasks/blob/main/README-zh.md)
+
  20 tasks to review the basic concepts of C++.
 
  Please note that this is a project for C++ developers who learnt and used C++ previously 
